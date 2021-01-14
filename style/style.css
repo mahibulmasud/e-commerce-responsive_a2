@@ -24,3 +24,34 @@ h3{
     border: 0px;
     border-radius: 10px;
 }
+@media only screen and (max-width: 600px){
+    .mediaforman{
+        margin-top: 450px;
+    }
+}
+@media only screen and (max-width: 600px){
+.mediacol{
+        width:200px;
+        margin: auto;
+    }
+}
+@media only screen and (max-width: 600px){
+    .media-footer{
+            margin-top: 200px;
+        }
+    }
+@media only screen and (max-width: 600px){
+        .mediatext{
+                margin-top: 500px;
+            }
+}
+@media only screen and (max-width: 600px){
+    .footertextmedia{
+            margin-top: 140px;
+}
+}
+@media only screen and (max-width: 600px){
+    .imgmedia{
+            margin-top: 140px;
+}
+}
