@@ -1,0 +1,26 @@
+h1{
+    font-weight: 700;
+    font-family: fantasy;
+}
+.header{
+    background-color:#FFFBF0;
+}
+
+.header-section{
+    height: 600px;
+}
+.jacket-card-footer{
+    border: 0;
+    background-color: white;
+}
+h3{
+    color: #FABE4C;
+    font-weight: 700;
+}
+.img-radius{
+    border-radius: 10px;
+}
+.sellcard{
+    border: 0px;
+    border-radius: 10px;
+}
