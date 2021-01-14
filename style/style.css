@@ -5,6 +5,9 @@ h1{
 .header{
     background-color:#FFFBF0;
 }
+.navtext{
+     font-family: 'Lobster', cursive;
+}
 
 .header-section{
     height: 600px;
